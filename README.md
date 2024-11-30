@@ -1,4 +1,5 @@
 # Blob_Mixer
+how to run this project :-
 
 npm i three
 npm i vite-plugin-glsl
